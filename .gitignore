@@ -46,3 +46,7 @@ test/rtp_decoder
 test/rtpw
 test/srtp_driver
 test/test_srtp
+
+# zig build
+zig-out
+.zig-cache

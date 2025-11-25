@@ -1,0 +1,16 @@
+.{
+    .name = .libsrtp2,
+    .version = "2.7.0",
+    .minimum_zig_version = "0.15.0",
+    .fingerprint = 0x7220d708b99fd0df,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "crypto",
+        "srtp",
+        "include",
+        "LICENSE",
+        "README.md",
+        "README-zig.md",
+    },
+}

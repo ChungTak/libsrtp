@@ -3,6 +3,9 @@
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/14274/badge.svg)](https://scan.coverity.com/projects/cisco-libsrtp)
 [![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/systemd.svg)](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libsrtp)
 
+> **🚀 Zig Build Support Available**  
+> This project now supports building with [Zig](https://ziglang.org/) for easy cross-compilation to multiple platforms (Linux, Windows, macOS, WebAssembly, etc.) without modifying source code. See [README-zig.md](README-zig.md) for details.
+
 <a name="introduction-to-libsrtp"></a>
 # Introduction to libSRTP
 
